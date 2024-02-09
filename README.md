@@ -1,3 +1,4 @@
+![logo](https://github.com/Adityaraj223/Adityaraj223/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">Experienced frontend developer specializing in JavaScript, React, TypeScript, and Next.js. I focus on crafting high-performance, elegant user interfaces that consistently surpass expectations. My dedication to innovation and design ensures the delivery of solutions that captivate and delight users</h3>
 
