@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **react js, next js,**
 
-- 👨‍💻 All of my projects are available at [https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)]
 
 - 💬 Ask me about **react js, next js, typescript, javascript, node js, express js, mongodb**
 
