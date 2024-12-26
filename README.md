@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **react js, next js,**
 
-- 👨‍💻 All of my projects are available at [https://genuine-manatee-bb3ee0.netlify.app/](https://genuine-manatee-bb3ee0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)
 
 - 💬 Ask me about **react js, next js, typescript, javascript, node js, express js, mongodb**
 
-- 📫 How to reach me **adityarajru20612000@gmail.com**
+- 📫 How to reach me **adityarajfw39@gmail.com**
 
-- 📄 Know about my experiences [https://genuine-manatee-bb3ee0.netlify.app/](https://genuine-manatee-bb3ee0.netlify.app/)
+- 📄 Know about my experiences [https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)
 
 - ⚡ Fun fact **DO OR DIE**
 
