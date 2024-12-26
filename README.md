@@ -1,6 +1,6 @@
 ![logo](https://github.com/Adityaraj223/Adityaraj223/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">Experienced frontend developer specializing in JavaScript, React, TypeScript, and Next.js. I focus on crafting high-performance, elegant user interfaces that consistently surpass expectations. My dedication to innovation and design ensures the delivery of solutions that captivate and delight users</h3>
+<h3 align="center">Experienced software developer specializing in JavaScript, React, TypeScript, node, express,sql,mogodb and Next.js. I focus on crafting high-performance, elegant user interfaces that consistently surpass expectations. My dedication to innovation and design ensures the delivery of solutions that captivate and delight users</h3>
 
 <img align="right" all="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/adityarajr77482" target="blank"><img src="https://img.shields.io/twitter/follow/adityarajr77482?logo=twitter&style=for-the-badge" alt="adityarajr77482" /></a> </p>
 
-- 🌱 I’m currently learning **react js, next js,**
+- 🌱Experienced software developer specializing in JavaScript, TypeScript, React, node,sql, express and Next.js.**
 
 - 👨‍💻 All of my projects are available at [[https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)]
 
-- 💬 Ask me about **react js, next js, typescript, javascript, node js, express js, mongodb**
+- 💬 Ask me about **software development**
 
 - 📫 How to reach me **adityarajfw39@gmail.com**
 
