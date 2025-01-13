@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityarajr77482" target="blank"><img src="https://img.shields.io/twitter/follow/adityarajr77482?logo=twitter&style=for-the-badge" alt="adityarajr77482" /></a> </p>
 
-- 🌱Experienced software developer specializing in JavaScript, TypeScript, React, node,sql, express and Next.js.**
+- 🌱Experienced software developer specializing in Full-stack development, DevOps practices (CI/CD pipelines, automated testing, cloud infrastructure), Project management and leadership, Database management (PostgreSQL, MongoDB, Supabase), Cross-functional team collaboration, Cloud platforms and services (Vercel, AWS, Firebase), Real-time collaboration tools (Liveblocks, WebSockets), Version control (Git, GitHub), Agile development methodologies, API integration (RESTful, GraphQL), Security and data privacy (role-based access control, encryption), Performance optimization (scalability, speed), Testing and debugging (unit, integration, and E2E testing).**
 
 - 👨‍💻 All of my projects are available at [[https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)]
 
