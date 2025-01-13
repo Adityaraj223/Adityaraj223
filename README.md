@@ -1,6 +1,6 @@
 ![logo](https://github.com/Adityaraj223/Adityaraj223/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">Dynamic software developer with entrepreneurial experience as the founder of Retour and internships at Wells Fargo, Skyscanner, Lyft, and Rentalsify. Delivered impactful solutions, including a 95% user sign-up boost at Retour. Skilled in building scalable systems, optimizing workflows, and driving strategic growth. Proven ability to lead projects, collaborate across teams, and deliver measurable results.</h3>
+<h3 align="center">Dynamic software developer and founder of Retour, with internship experience at Wells Fargo, Skyscanner, Lyft, and Rentalsify. Delivered impactful solutions, including a 95% user sign-up boost at Retour. Skilled in building scalable systems, optimizing workflows, and driving growth. Proven leader with a strong track record of delivering measurable results through cross-team collaboration </h3>
 
 <img align="right" all="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
