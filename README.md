@@ -1,6 +1,6 @@
 ![logo](https://github.com/Adityaraj223/Adityaraj223/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">Experienced software developer specializing in JavaScript, React, TypeScript, node, express,sql,mogodb and Next.js. I focus on crafting high-performance, elegant user interfaces that consistently surpass expectations. My dedication to innovation and design ensures the delivery of solutions that captivate and delight users</h3>
+<h3 align="center">Dynamic software developer with entrepreneurial experience as the founder of Retour and internships at Wells Fargo, Skyscanner, Lyft, and Rentalsify. Delivered impactful solutions, including a 95% user sign-up boost at Retour. Skilled in building scalable systems, optimizing workflows, and driving strategic growth. Proven ability to lead projects, collaborate across teams, and deliver measurable results.</h3>
 
 <img align="right" all="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
