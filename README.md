@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [[https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)]
 
-- 💬 Ask me about **software development**
+- 📄 **Retour** SaaS: https://retourfc.vercel.app/
 
 - 📫 How to reach me **adityarajfw39@gmail.com**
 
-- 📄 Retour SaaS: https://retourfc.vercel.app/
+- 💬 Ask me about **software development** 
 
 - ⚡ Fun fact **DO OR DIE**
 
