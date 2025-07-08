@@ -1,113 +1,30 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Raj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
-</div>
+Aditya Raj
+India |  8797040159 | adityarajfw39@gmail.com | https://www.linkedin.com/in/aditya-raj-programmer-analyst/ |      https://portfolio-pi-ten-68.vercel.app/  |  https://github.com/Adityaraj223 | 
+Profile
+software developer with entrepreneurial experience as the founder of Retour and professional experience at Wells Fargo, Skyscanner, Lyft, and Rentalsify. Delivered impactful solutions, including a 95% user sign-up boost at Retour. Skilled in building scalable systems, optimizing workflows, and driving strategic growth. Proven ability to lead projects, collaborate across teams, and deliver measurable results.
+Experience
+ Founder & Solo Developer | Retour
+·	Developed a real-time feedback collection widget with an integrated analytics dashboard and secure user access, ensuring 99.5% uptime for uninterrupted user experience.
+·	  Achieved an 80% increase in user sign-ups month-over-month by leveraging SEO strategies and incorporating customer feedback into the product roadmap..
+·	  Successfully launched the product with paying clients, optimizing the onboarding process to reduce setup time by 70%, significantly improving customer satisfaction.
+·	  Rolled out 5+ major updates in the first 3 months, introducing key features that enhanced user engagement and retention rates..
+·	Drove company growth through strategic inbound marketing, establishing a strong online presence and increasing organic lead generation by 50%
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Architect;DevOps+Engineer;Cloud+Solutions+Expert;Performance+Optimization+Specialist;Innovation+Driven+Developer" alt="Typing SVG" />
-</div>
+Front-End (intern) | Skyscanner 
+·	Completed a front-end job simulation, building a travel web application using React, improving component load speed by 15% through optimized rendering.
+·	Developed a travel date selection page using Skyscanner’s Backpack React library, reducing development time by 30% with pre-built components.
+·	Customized UI elements to align with brand guidelines, enhancing overall UI consistency by 25%.
+·	Wrote and ran unit and integration tests, achieving 100% test pass rate and ensuring reliable component rendering across devices.
+Backend (intern) Developer  | Lyft 
+·	  Partnered with 10+ engineers, designers, and PMs to architect backend services and APIs, enhancing platform functionality by 25%.
+·	  Engineered efficient code in Python, Java, and Go, optimizing system maintainability by 30%
+·	Debugged and resolved performance bottlenecks, boosting system reliability by 40%.
+·	Deployed high-impact optimizations, enhancing UX metrics for millions of riders and drivers by 15%.
+Education-Bachelor of Technology (B.Tech) – Computer Science - specialization in Big Data Analytics
+Skills & Abilities 
+·	  Proficient in JavaScript, TypeScript, React, Node.js, Express, Next.js
+·	  Experienced in SaaS development and real-time collaboration tools
+·	  Skilled in SQL, MongoDB, PostgreSQL, Supabase, Drizzle ORM 
+	·	  Strong focus on UI/UX design, cybersecurity architecture, role-based access control, SEO optimization, and performance-driven web development.
+·	Skilled in creating technical content, including documentation, blogs, and tutorials to engage dev 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" alt="coding gif" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityaraj223&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/adityaraj223?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/adityaraj223?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj223&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://github.com/Adityaraj223/Adityaraj223/raw/main/code.gif" width="500" alt="coding" />
-</div>
-
-```typescript
-const adityaRaj = {
-  role: "Full Stack Architect & DevOps Engineer",
-  location: "India 🇮🇳",
-  experience: "5+ years",
-  specialties: [
-    "Scalable System Architecture",
-    "Cloud-Native Solutions",
-    "Performance Optimization",
-    "Team Leadership"
-  ],
-  philosophy: "Code with passion, innovate with purpose",
-  currentFocus: "Building the future, one commit at a time"
-};
-```
-
-### 💡 What I Do
-
-- 🏗️ **Architecture & Design**: Crafting scalable, maintainable systems that handle millions of requests
-- ⚡ **Performance Engineering**: Optimizing applications for speed, efficiency, and user experience
-- 🔧 **DevOps & CI/CD**: Automating deployments, monitoring, and infrastructure management
-- 🌐 **Full-Stack Development**: From pixel-perfect UIs to robust backend services
-- 📊 **Data Solutions**: Building analytics platforms and real-time data processing systems
-- 🔐 **Security & Compliance**: Implementing enterprise-grade security practices
-
-### 🎯 Current Focus
-
-- 🌱 **Exploring**: Advanced cloud architectures with Kubernetes and microservices
-- 🔮 **Learning**: AI/ML integration in web applications
-- 🚀 **Building**: Next-generation SaaS platforms
-- 💼 **Available for**: Consulting, mentoring, and exciting projects
-
-### 📊 Professional Highlights
-
-- 💻 **50+ Production Applications** deployed and maintained
-- 📈 **99.9% Uptime** achieved across critical systems
-- 🌐 **10M+ API Requests** handled daily
-- 👥 **15+ Teams** led and mentored
-- 🏆 **Multiple Awards** for technical excellence
-
-### 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://retourfc.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🎯_Retour_SaaS-Premium_Platform-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Retour SaaS" />
-  </a>
-  <a href="https://portfolio-pi-ten-68.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Professional_Showcase-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-### 📫 Let's Connect
-
-- 💼 **Email**: adityarajfw39@gmail.com
-- 💬 **Ask me about**: System Architecture, Performance Optimization, Team Leadership
-- ⚡ **Fun fact**: I turn coffee into code and ideas into reality
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/aditya_raj_1010" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/aditya_raj_1010" height="30" width="40" />
-  </a>
-  <a href="https://x.com/AdityaRaj139152" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AdityaRaj139152" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-raj-programmer-analyst/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-raj-programmer-analyst/" height="30" width="40" />
-  </a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj223&show_icons=true&locale=en&layout=compact" alt="adityaraj223" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraj223&show_icons=true&locale=en" alt="adityaraj223" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj223&" alt="adityaraj223" /></p>
