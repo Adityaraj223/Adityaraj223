@@ -1,51 +1,118 @@
-![logo](https://github.com/Adityaraj223/Adityaraj223/blob/main/banner.png)
-<h1 align="center">Hi ðŸ‘‹, I'm Aditya Raj</h1>
-<h3 align="center">a software developer who believes in pushing the boundaries of what technology can do. I specialize in creating high-impact solutions that are both powerful and intuitive. Whether it's crafting seamless user experiences or building scalable systems, I focus on getting things doneâ€”efficiently and with precision. Constantly learning, always innovating, and driven by the challenge of solving complex problems. If you're looking for a developer who thinks outside the box, let's make something extraordinary happen. </h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Aditya%20Raj&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-<img align="right" all="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;JavaScript%20%26%20TypeScript%20Expert;React%20%26%20Node.js%20Specialist;SaaS%20Development%20Enthusiast;Real-time%20Collaboration%20Tools;UI/UX%20%26%20Cybersecurity%20Focus&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj223&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj223" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaraj223" alt="adityaraj223" /></a> </p>
-
-<p align="left"> <a href="https://x.com/AdityaRaj139152" target="blank"><img src="https://img.shields.io/twitter/follow/adityarajr77482?logo=twitter&style=for-the-badge" alt="adityarajr77482" /></a> </p>
-
-- ðŸŒ±Experienced software developer specializing in Full-stack development, DevOps practices (CI/CD pipelines, automated testing, cloud infrastructure), Project management and leadership, Database management (PostgreSQL, MongoDB, Supabase), Cross-functional team collaboration, Cloud platforms and services (Vercel, AWS, Firebase), Real-time collaboration tools (Liveblocks, WebSockets), Version control (Git, GitHub), Agile development methodologies, API integration (RESTful, GraphQL), Security and data privacy (role-based access control, encryption), Performance optimization (scalability, speed), Testing and debugging (unit, integration, and E2E testing).**
-
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [[https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)]
-
-- ðŸ“„ **Retour** SaaS: https://retourfc.vercel.app/
-
-- ðŸ“« How to reach me **adityarajfw39@gmail.com**
-
-- ðŸ’¬ Ask me about **software development** 
-
-- âš¡ Fun fact **DO OR DIE**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/aditya_raj_1010" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/aditya_raj_1010" height="30" width="40" />
-  </a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaraj223&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://x.com/AdityaRaj139152" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AdityaRaj139152" height="30" width="40" />
+    <img src="https://img.shields.io/twitter/follow/adityarajr77482?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-raj-programmer-analyst/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-raj-programmer-analyst/" height="30" width="40" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+## 🚀 About Me
+
+I'm a passionate software developer who believes in pushing the boundaries of what technology can achieve. I specialize in creating high-impact solutions that are both powerful and intuitive. Whether it's crafting seamless user experiences or building scalable systems, I focus on delivering results efficiently and with precision.
+
+- 🔭 Currently working on **SaaS development** and **real-time collaboration tools**
+- 🌱 Constantly learning and innovating in the tech space
+- 💡 Driven by solving complex problems and creating extraordinary solutions
+- 📝 Creating technical content including documentation, blogs, and tutorials
+- 🎯 **Motto:** "DO OR DIE"
+
+## 💻 Technical Skills
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### Databases & ORMs
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+
+### Specializations
+- **SaaS Development** - Building scalable software-as-a-service applications
+- **Real-time Collaboration** - WebSockets, live data synchronization
+- **UI/UX Design** - Creating intuitive and engaging user interfaces
+- **Cybersecurity Architecture** - Implementing secure systems and protocols
+- **Role-based Access Control** - User permissions and authentication systems
+- **SEO Optimization** - Performance-driven web development
+- **Technical Writing** - Documentation, blogs, and developer tutorials
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adityaraj223&theme=flat&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
+## 🌟 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🔗 [Portfolio Website](https://portfolio-pi-ten-68.vercel.app/)
+Personal portfolio showcasing my projects and skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraj223&show_icons=true&locale=en&layout=compact" alt="adityaraj223" /></p>
+### 📊 [Retour SaaS](https://retourfc.vercel.app/)
+A comprehensive SaaS solution built with modern technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraj223&show_icons=true&locale=en" alt="adityaraj223" /></p>
+## 📈 GitHub Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj223&" alt="adityaraj223" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaraj223&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj223&layout=compact&theme=default"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj223&theme=default" alt="GitHub Streak" />
+</div>
+
+## 📫 Let's Connect
+
+I'm always open to discussing new opportunities, collaborating on projects, or sharing knowledge about software development.
+
+<div align="center">
+  <a href="mailto:adityarajfw39@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-raj-programmer-analyst/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/AdityaRaj139152" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/aditya_raj_1010" target="_blank">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>"Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+</div>
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <p>⚡ <strong>"Code is like humor. When you have to explain it, it's bad."</strong> - Cory House</p>
+</div>
+
 
