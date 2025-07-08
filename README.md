@@ -1,26 +1,89 @@
-![logo](https://github.com/Adityaraj223/Adityaraj223/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h3 align="center">a software developer who believes in pushing the boundaries of what technology can do. I specialize in creating high-impact solutions that are both powerful and intuitive. Whether it's crafting seamless user experiences or building scalable systems, I focus on getting things done—efficiently and with precision. Constantly learning, always innovating, and driven by the challenge of solving complex problems. If you're looking for a developer who thinks outside the box, let's make something extraordinary happen. </h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya%20Raj&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-<img align="right" all="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Architect;DevOps+Engineer;Cloud+Solutions+Expert;Performance+Optimization+Specialist;Innovation+Driven+Developer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj223&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj223" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="350" alt="coding gif" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaraj223" alt="adityaraj223" /></a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaraj223&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/adityaraj223?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/adityaraj223?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+</div>
 
-<p align="left"> <a href="https://x.com/AdityaRaj139152" target="blank"><img src="https://img.shields.io/twitter/follow/adityarajr77482?logo=twitter&style=for-the-badge" alt="adityarajr77482" /></a> </p>
+<br>
 
-- 🌱Experienced software developer specializing in Full-stack development, DevOps practices (CI/CD pipelines, automated testing, cloud infrastructure), Project management and leadership, Database management (PostgreSQL, MongoDB, Supabase), Cross-functional team collaboration, Cloud platforms and services (Vercel, AWS, Firebase), Real-time collaboration tools (Liveblocks, WebSockets), Version control (Git, GitHub), Agile development methodologies, API integration (RESTful, GraphQL), Security and data privacy (role-based access control, encryption), Performance optimization (scalability, speed), Testing and debugging (unit, integration, and E2E testing).**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaraj223&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
-- 👨‍💻 All of my projects are available at [[https://genuine-manatee-bb3ee0.netlify.app/](https://portfolio-pi-ten-68.vercel.app/)]
+## 🚀 About Me
 
-- 📄 **Retour** SaaS: https://retourfc.vercel.app/
+<div align="center">
+  <img src="https://github.com/Adityaraj223/Adityaraj223/raw/main/code.gif" width="500" alt="coding" />
+</div>
 
-- 📫 How to reach me **adityarajfw39@gmail.com**
+```typescript
+const adityaRaj = {
+  role: "Full Stack Architect & DevOps Engineer",
+  location: "India 🇮🇳",
+  experience: "5+ years",
+  specialties: [
+    "Scalable System Architecture",
+    "Cloud-Native Solutions",
+    "Performance Optimization",
+    "Team Leadership"
+  ],
+  philosophy: "Code with passion, innovate with purpose",
+  currentFocus: "Building the future, one commit at a time"
+};
+```
 
-- 💬 Ask me about **software development** 
+### 💡 What I Do
 
-- ⚡ Fun fact **DO OR DIE**
+- 🏗️ **Architecture & Design**: Crafting scalable, maintainable systems that handle millions of requests
+- ⚡ **Performance Engineering**: Optimizing applications for speed, efficiency, and user experience
+- 🔧 **DevOps & CI/CD**: Automating deployments, monitoring, and infrastructure management
+- 🌐 **Full-Stack Development**: From pixel-perfect UIs to robust backend services
+- 📊 **Data Solutions**: Building analytics platforms and real-time data processing systems
+- 🔐 **Security & Compliance**: Implementing enterprise-grade security practices
+
+### 🎯 Current Focus
+
+- 🌱 **Exploring**: Advanced cloud architectures with Kubernetes and microservices
+- 🔮 **Learning**: AI/ML integration in web applications
+- 🚀 **Building**: Next-generation SaaS platforms
+- 💼 **Available for**: Consulting, mentoring, and exciting projects
+
+### 📊 Professional Highlights
+
+- 💻 **50+ Production Applications** deployed and maintained
+- 📈 **99.9% Uptime** achieved across critical systems
+- 🌐 **10M+ API Requests** handled daily
+- 👥 **15+ Teams** led and mentored
+- 🏆 **Multiple Awards** for technical excellence
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://retourfc.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎯_Retour_SaaS-Premium_Platform-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Retour SaaS" />
+  </a>
+  <a href="https://portfolio-pi-ten-68.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Professional_Showcase-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+### 📫 Let's Connect
+
+- 💼 **Email**: adityarajfw39@gmail.com
+- 💬 **Ask me about**: System Architecture, Performance Optimization, Team Leadership
+- ⚡ **Fun fact**: I turn coffee into code and ideas into reality
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
